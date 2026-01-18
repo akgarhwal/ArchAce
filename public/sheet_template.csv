@@ -1,0 +1,12 @@
+id,parentId,type,name,description,iconName
+db,,domain,Databases,"Core concepts of SQL and NoSQL storage engines.",Database
+msg,,domain,Messaging Queues,"Asynchronous communication and event streaming.",MessageSquare
+dist,,domain,Distributed Systems,"Scalability, reliability, and consensus protocols.",Server
+dynamodb,db,technology,DynamoDB,,SiAmazondynamodb
+postgres,db,technology,PostgreSQL,,SiPostgresql
+mongo,db,technology,MongoDB,,SiMongodb
+kafka,msg,technology,Kafka,,SiApachekafka
+pulsar,msg,technology,Pulsar,,SiApachepulsar
+rabbitmq,msg,technology,RabbitMQ,,SiRabbitmq
+consistency,dist,technology,Consistency,,Database
+sharding,dist,technology,Sharding,,Split
